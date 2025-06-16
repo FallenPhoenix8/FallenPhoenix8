@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming, reading books (especially light novels), psychology and Japanese culture
 - 🌱 I’m currently learning at a certain Technical Programming School in Poland
 - 💞️ I’m looking to collaborate on getting new experience in programming
-- 📫 How to reach me: thefallenphoenix8 is my Discord username
+- 📫 How to reach me:
+  - Email: lukw8@proton.me
+  - Discord: thefallenphoenix8
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm an INTJ from personality, but some people say I'm more sociable than most INTJ 😉
 
