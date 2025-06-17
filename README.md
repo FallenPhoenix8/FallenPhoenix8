@@ -16,6 +16,7 @@
   - Clear and descriptive variable and function names  
   - Comments added where needed
 - Familiar with **basic UNIX command line** usage
+- I can utilize **AI coding assistants** to make my workflow faster, follow the rapid-growing industry and learn new things 
 
 ---
 
